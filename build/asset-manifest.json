@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6852c98e.css",
+    "main.js": "/static/js/main.c909ea4b.js",
+    "static/js/787.e87a2b92.chunk.js": "/static/js/787.e87a2b92.chunk.js",
+    "static/media/picture1.jpg": "/static/media/picture1.820372baf1ac0ac32dc4.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.40ecc72a6734478229e7.jpg",
+    "static/media/merit1.jpeg": "/static/media/merit1.074a64b37eb8d72f40f4.jpeg",
+    "static/media/bg 1.jpeg": "/static/media/bg 1.a70287943128081409ef.jpeg",
+    "static/media/picture2.jpg": "/static/media/picture2.23bfd037d632ff1474df.jpg",
+    "static/media/dish3.jpeg": "/static/media/dish3.e279fb23e5ca330dfb80.jpeg",
+    "static/media/picture3.jpeg": "/static/media/picture3.0a805e3f21eacd5d0afd.jpeg",
+    "static/media/dish1.jpeg": "/static/media/dish1.ac297d0c49af88a589f0.jpeg",
+    "static/media/dish2.jpeg": "/static/media/dish2.32f519ccf6ae42f42dae.jpeg",
+    "static/media/resturant.png": "/static/media/resturant.a05db7166257050131df.png",
+    "static/media/merit2.jpeg": "/static/media/merit2.10bb986bf22a0baf86a8.jpeg",
+    "static/media/pic5.png": "/static/media/pic5.d38f3ac8947749b01a4c.png",
+    "static/media/pic4.png": "/static/media/pic4.afc59bc8f1b7905d99c9.png",
+    "static/media/pic3.png": "/static/media/pic3.01ae0b1377ba1fb1ef94.png",
+    "static/media/pic6.png": "/static/media/pic6.950dd37fb0ea3d1b1cf2.png",
+    "static/media/pic2.png": "/static/media/pic2.ba0400f9aa7861cbedb5.png",
+    "static/media/pic1.png": "/static/media/pic1.1af507ac31e45413e46c.png",
+    "index.html": "/index.html",
+    "main.6852c98e.css.map": "/static/css/main.6852c98e.css.map",
+    "main.c909ea4b.js.map": "/static/js/main.c909ea4b.js.map",
+    "787.e87a2b92.chunk.js.map": "/static/js/787.e87a2b92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6852c98e.css",
+    "static/js/main.c909ea4b.js"
+  ]
+}
